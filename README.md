@@ -27,7 +27,7 @@
   - [メンバーの編集(管理者専用)](https://gmail4344101.autodesk360.com/g/admin/manage/roles/people)
 
 ## 電装班ブログ → https://torica-electric.f5.si
-- リポジトリ [TORICA_Electic_Blog](https://github.com/TORICA-Org/TORICA_Electric_Blog) 内の`/docs`配下がソース
+- リポジトリ [TORICA_Electronics_Blog](https://github.com/TORICA-Org/TORICA_Electronics_Blog) 内の`/docs`配下がソース
   
 ## 過去のOrganization
 - [17代](https://github.com/TORICA)
