@@ -30,6 +30,9 @@
 
 ## 電装班ブログ → https://torica-org.github.io/electronics-blog/
 - リポジトリ [electronics-blog](https://github.com/TORICA-Org/electronics-blog) 内の`/docs`配下がソース
+
+## 電装班資料集
+[electronics-docs](https://torica-org.github.io/electronics-docs/)
   
 ## 過去のOrganization
 - [17代](https://github.com/TORICA)
