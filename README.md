@@ -1,8 +1,17 @@
 # 26th_Electronics
 
-### [製作計画](製作計画/) - [スケジュール](スケジュール/) 
-### [夏休み中の予定](夏休み中の計画/) - [作業指示書](作業指示書/)
-### [各種ログイン情報](https://github.com/TORICA-Org/.github-private/blob/main/各種ログイン情報.md)
+## 教育
+- [27代向け作業体験資料](https://github.com/TORICA-Org/25th_Denso_Sinkan)
+- [電装班資料集](https://torica-org.github.io/electronics-docs/)
+- [基板名刺](https://github.com/TORICA-Org/26th_PCB_Contact_Card)
+
+## 開発
+- エアデータ: [Software](https://github.com/TORICA-Org/26th_Software_Airdata) / [PCB](https://github.com/TORICA-Org/26th_PCB_AirData)
+- 機体下: [Software](https://github.com/TORICA-Org/26th_Software_Underside)
+- 胴体桁: [Software](https://github.com/TORICA-Org/26th_PitchSender)
+- テスト: [Software](https://github.com/TORICA-Org/26th_Software_TEST)
+- ラダー: [Software](https://github.com/TORICA-Org/26th_Software_Rudder)
+- サンプル: [Software](https://github.com/TORICA-Org/26th_Software_Sample)
 
 ## はじめに
 
@@ -19,20 +28,11 @@
 ## リポジトリ
 - 名称は基本的に「26th_Software_〇〇」または「26th_PCB_〇〇」とする
 - 公開設定は「Public」とする
-- [リポジトリ一覧](https://github.com/orgs/TORICA-Org/repositories)
-  - ["TORICA"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=TORICA)
-  - ["25th"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=25th)
-  - ["26th"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=26th)
-  - ["Library"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=Library)
-  - ["Sim"を含むリポジトリ](https://github.com/orgs/TORICA-Org/repositories?q=Sim)
 - 3DデータはFusionのハブ「TORICA_Electric」のフォルダ「TORICA26」で管理する。
   - [メンバーの編集(管理者専用)](https://gmail4344101.autodesk360.com/g/admin/manage/roles/people)
 
 ## 電装班ブログ → https://torica-org.github.io/electronics-blog/
 - リポジトリ [electronics-blog](https://github.com/TORICA-Org/electronics-blog) 内の`/docs`配下がソース
-
-## 電装班資料集
-[electronics-docs](https://torica-org.github.io/electronics-docs/)
   
 ## 過去のOrganization
 - [17代](https://github.com/TORICA)
