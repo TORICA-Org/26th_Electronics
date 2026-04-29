@@ -5,7 +5,7 @@
 - [鳥コン滑空機の電装の開発 | 771-8bit](https://771-8bit.com/blog/birdman-glider-avionics/)
 - [25代Notion](https://geode-kicker-e37.notion.site/TORICA-25-d7171c4f52474fd9b70f506ea2b930a4)
 - [25代鳥科電装勉強](https://geode-kicker-e37.notion.site/f4303f1da5d94d21af8da94cfff05153)
-- [電装班資料集](https://github.com/TORICA-Org/electronics-docs/)
+- [電装班資料集(electronics-docs)](https://github.com/TORICA-Org/electronics-docs/)
 - [基板名刺](https://github.com/TORICA-Org/26th_PCB_Contact_Card)
 
 ## 開発
