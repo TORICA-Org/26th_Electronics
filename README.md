@@ -15,6 +15,7 @@
 - テスト: [Software](https://github.com/TORICA-Org/26th_Software_TEST)
 - ラダー: [Software](https://github.com/TORICA-Org/26th_Software_Rudder)
 - サンプル: [Software](https://github.com/TORICA-Org/26th_Software_Sample)
+- 3Dモデル: [Archive](https://github.com/TORICA-Org/26th_Parts_3DModels/tree/main)
 
 ## はじめに
 
