@@ -11,7 +11,7 @@
 ## 開発
 - エアデータ: [Software](https://github.com/TORICA-Org/26th_Software_Airdata) / [PCB](https://github.com/TORICA-Org/26th_PCB_AirData)
 - 機体下: [Software](https://github.com/TORICA-Org/26th_Software_Underside)
-- 胴体桁: [Software](https://github.com/TORICA-Org/26th_PitchSender)
+- 胴体桁: [Software](https://github.com/TORICA-Org/26th_Software_PitchSender) / [PCB](https://github.com/TORICA-Org/26th_PCB_PitchSender)
 - テスト: [Software](https://github.com/TORICA-Org/26th_Software_TEST)
 - ラダー: [Software](https://github.com/TORICA-Org/26th_Software_Rudder)
 - サンプル: [Software](https://github.com/TORICA-Org/26th_Software_Sample)
