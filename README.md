@@ -10,10 +10,10 @@
 
 ## 開発
 - エアデータ: [Software](https://github.com/TORICA-Org/26th_Software_Airdata) / [PCB](https://github.com/TORICA-Org/26th_PCB_AirData)
-- 機体下: [Software](https://github.com/TORICA-Org/26th_Software_Underside)
+- 機体下: [Software](https://github.com/TORICA-Org/26th_Software_Underside) / [PCB](https://github.com/TORICA-Org/26th_PCB_UnderSide)
 - 胴体桁: [Software](https://github.com/TORICA-Org/26th_Software_PitchSender) / [PCB](https://github.com/TORICA-Org/26th_PCB_PitchSender)
 - テスト: [Software](https://github.com/TORICA-Org/26th_Software_TEST)
-- ラダー: [Software](https://github.com/TORICA-Org/26th_Software_Rudder)
+- ラダー: [Software](https://github.com/TORICA-Org/26th_Software_Rudder) / [PCB](https://github.com/TORICA-Org/26th_PCB_Rudder)
 - サンプル: [Software](https://github.com/TORICA-Org/26th_Software_Sample)
 - 3Dモデル: [Archive](https://github.com/TORICA-Org/26th_Parts_3DModels/tree/main)
 
